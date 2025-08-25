@@ -1,4 +1,4 @@
-
+![logo](https://github.com/wahidbux/wahidbux/blob/main/Github%20Banner%20(2).png)
 <h1 align="center">Hi 👋, I'm Wahid Bux</h1>
 <h3 align="center">A passionate MERN Developer from Pakistan</h3>
 

@@ -70,3 +70,9 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wahidbux&" alt="wahidbux" />
 </p>
+
+---
+
+### 🏅 Holopin Badges
+
+[![An image of @wahidbux's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/wahidbux)](https://holopin.io/@wahidbux)

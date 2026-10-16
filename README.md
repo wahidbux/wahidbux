@@ -1,78 +1,91 @@
-![logo](https://github.com/wahidbux/wahidbux/blob/main/Github%20Banner%20(2).png)
-<h1 align="center">Hi 👋, I'm Wahid Bux</h1>
-<h3 align="center">A passionate Backend Developer from Pakistan</h3>
-
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=wahidbux&label=Profile%20views&color=0e75b6&style=flat" alt="wahidbux" /> 
+<p align="center">
+  <img src="assets/banner.svg" alt="Wahid Bux, Backend Developer" width="100%"/>
 </p>
 
-- 📫 How to reach me **wahidmari2004@gmail.com**
-
----
-
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/wahid-mari" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wahid mari" height="30" width="40" />
-  </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/wahid-mari-0671b9379/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:wahidmari2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=wahidbux&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/status-open_to_collab-9ece6a?style=flat-square" alt="Open to collaborate"/>
 </p>
 
----
+## 🟢 `cat about-me.yaml`
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://expressjs.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
+```yaml
+apiVersion: humans.dev/v1
+kind: Developer
+metadata:
+  name: wahid-bux
+  location: Nawabshah, Sindh, Pakistan
+  labels:
+    role: backend-developer
+    open-to: collaboration
+spec:
+  currentlyWorkingOn:
+    - Building REST APIs with Node.js and Express
+    - Structuring clean, scalable backend projects
+  learning:
+    - Advanced JavaScript and system design
+    - Authentication, security and deployment
+  lookingToCollaborateOn:
+    - Open-source backend projects
+    - Full-stack web apps
+  askMeAbout:
+    - Node.js, Express, MongoDB, SQL
+status:
+  phase: Running
+  conditions:
+    - type: Learning
+      status: "True"
+    - type: OpenToCollab
+      status: "True"
+```
+
+## 🧰 Tech Stack
+
+**BACKEND · DATABASES**
+
+![Node.js, Express, MongoDB, MySQL, PostgreSQL](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres&theme=dark)
+
+**FRONTEND · LANGUAGES**
+
+![JavaScript, React, HTML, CSS, Bootstrap](https://skillicons.dev/icons?i=js,react,html,css,bootstrap&theme=dark)
+
+**TOOLS**
+
+![Git, GitHub, VS Code, Postman](https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark)
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+| ------- | ----------- | ----- |
+| [nodejs-structure](https://github.com/wahidbux/nodejs-structure) | A clean, organized folder structure for Node.js backends | `Node.js` `JavaScript` |
+| [crud_application](https://github.com/wahidbux/crud_application) | A CRUD app with server-rendered views | `Express` `EJS` |
+| [nodejs-basics](https://github.com/wahidbux/nodejs-basics) | Core Node.js concepts, step by step | `Node.js` |
+| [advance-javascript](https://github.com/wahidbux/advance-javascript) | Advanced JavaScript concepts and practice | `JavaScript` |
+
+> ✏️ Replace or add your best projects here. A short description and the tech used for each makes a big difference.
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wahidbux&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahidbux&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
 
----
-
-<h3 align="left">📊 GitHub Stats:</h3>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wahidbux&show_icons=true&locale=en&layout=compact" alt="wahidbux" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahidbux&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wahidbux&show_icons=true&locale=en" alt="wahidbux" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wahidbux/wahidbux/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wahidbux&" alt="wahidbux" />
-</p>
+## 🤝 Let's Connect
 
----
+I'm always happy to talk about backend development, learn from others and work on open source. Reach out on LinkedIn or by email.
 
-### 🏅 Holopin Badges
-
-[![An image of @wahidbux's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/wahidbux)](https://holopin.io/@wahidbux)
+```bash
+$ node status.js
+Server running... thanks for stopping by! ✔
+```

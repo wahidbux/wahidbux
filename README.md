@@ -22,7 +22,7 @@ metadata:
     open-to: collaboration
 spec:
   currentlyWorkingOn:
-    - Building REST APIs with Node.js and Express
+    - Building REST APIs with Node.js, Express and FastAPI
     - Structuring clean, scalable backend projects
   learning:
     - Advanced JavaScript and system design
@@ -31,7 +31,7 @@ spec:
     - Open-source backend projects
     - Full-stack web apps
   askMeAbout:
-    - Node.js, Express, MongoDB, SQL
+    - Node.js, Express, Python, FastAPI, MongoDB, SQL
 status:
   phase: Running
   conditions:
@@ -45,7 +45,7 @@ status:
 
 **BACKEND · DATABASES**
 
-![Node.js, Express, MongoDB, MySQL, PostgreSQL](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres&theme=dark)
+![Node.js, Express, Python, FastAPI, MongoDB, MySQL, PostgreSQL](https://skillicons.dev/icons?i=nodejs,express,python,fastapi,mongodb,mysql,postgres&theme=dark)
 
 **FRONTEND · LANGUAGES**
 

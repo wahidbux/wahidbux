@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/status-open_to_collab-9ece6a?style=flat-square" alt="Open to collaborate"/>
 </p>
 
-## 🟢 `cat about-me.yaml`
+<h2 align="center">🟢 <code>cat about-me.yaml</code></h2>
 
 ```yaml
 apiVersion: humans.dev/v1
@@ -41,32 +41,38 @@ status:
       status: "True"
 ```
 
-## 🧰 Tech Stack
+<h2 align="center">🧰 Toolchain</h2>
 
-**BACKEND · DATABASES**
+<div align="center">
 
-![Node.js, Express, Python, FastAPI, MongoDB, MySQL, PostgreSQL](https://skillicons.dev/icons?i=nodejs,express,python,fastapi,mongodb,mysql,postgres&theme=dark)
+**BACKEND · APIs**<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&theme=dark" alt="Node.js, Express, Python, FastAPI"/>
 
-**FRONTEND · LANGUAGES**
+**DATABASES**<br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" alt="MongoDB, MySQL, PostgreSQL"/>
 
-![JavaScript, React, HTML, CSS, Bootstrap](https://skillicons.dev/icons?i=js,react,html,css,bootstrap&theme=dark)
+**FRONTEND · LANGUAGES**<br>
+<img src="https://skillicons.dev/icons?i=js,react,html,css,bootstrap&theme=dark" alt="JavaScript, React, HTML, CSS, Bootstrap"/>
 
-**TOOLS**
+**TOOLS**<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Git, GitHub, VS Code, Postman"/>
 
-![Git, GitHub, VS Code, Postman](https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark)
+</div>
 
-## 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
 
 | Project | Description | Stack |
-| ------- | ----------- | ----- |
+| :-----: | :---------: | :---: |
 | [nodejs-structure](https://github.com/wahidbux/nodejs-structure) | A clean, organized folder structure for Node.js backends | `Node.js` `JavaScript` |
 | [crud_application](https://github.com/wahidbux/crud_application) | A CRUD app with server-rendered views | `Express` `EJS` |
 | [nodejs-basics](https://github.com/wahidbux/nodejs-basics) | Core Node.js concepts, step by step | `Node.js` |
 | [advance-javascript](https://github.com/wahidbux/advance-javascript) | Advanced JavaScript concepts and practice | `JavaScript` |
 
-> ✏️ Replace or add your best projects here. A short description and the tech used for each makes a big difference.
+</div>
 
-## 📊 GitHub Stats
+<h2 align="center">📡 Telemetry</h2>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=wahidbux&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
@@ -81,11 +87,18 @@ status:
   <img src="https://raw.githubusercontent.com/wahidbux/wahidbux/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
-## 🤝 Let's Connect
+<h2 align="center">🤝 Open a connection</h2>
 
-I'm always happy to talk about backend development, learn from others and work on open source. Reach out on LinkedIn or by email.
+<p align="center">
+  I'm always happy to talk about backend development, learn from others and work on open source.
+</p>
 
-```bash
-$ node status.js
-Server running... thanks for stopping by! ✔
-```
+<p align="center">
+  <a href="https://www.linkedin.com/in/wahid-mari-0671b9379/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:wahidmari2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+<p align="center">
+  <code>$ node status.js</code><br>
+  <code>Server running... thanks for stopping by! ✔</code>
+</p>

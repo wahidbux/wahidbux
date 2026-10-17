@@ -5,8 +5,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/wahid-mari-0671b9379/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:wahidmari2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=wahidbux&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-  <img src="https://img.shields.io/badge/status-open_to_collab-9ece6a?style=flat-square" alt="Open to collaborate"/>
 </p>
 
 <h2 align="center">🟢 <code>cat about-me.yaml</code></h2>
